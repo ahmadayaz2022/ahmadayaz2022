@@ -28,7 +28,9 @@
 
 - **Organ & Blood Sharing - Donor Finder** (Django)  
   A web app for requesting and managing organ/blood donations.
-
+  
+- **Fitcheak - BMI & Health Advisor** (https://github.com/ahmadayaz2022/fitcheak)
+  A Streamlit web app that calculates BMI and gives personalized health advice. [Live on Hugging Face 🚀](https://huggingface.co/spaces/ahmadayaz2022/fitcheak)
 ---
 
 ## 📜 Certifications
