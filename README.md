@@ -1,57 +1,105 @@
 # 👋 Hi there, I'm Ahmad Ayaz!
 
-🎓 Fresh Software Engineering graduate from University of Haripur, Pakistan  
-💻 Passionate about Python Development, Web Technologies, and Generative AI  
-🚀 Currently learning Agentic AI, LLMs, and RAG to build intelligent systems  
-📚 Enthusiastic about open-source contributions and impactful tech solutions  
+🎓 Software Engineering Graduate  
+💻 MERN Stack Developer | Python Automation Enthusiast  
+🚀 Building scalable web apps & automating real-world problems  
+🤖 Exploring AI, Agentic Systems, and LLM-based applications  
+
+---
+
+## 🚀 About Me
+
+- 🔭 I’m currently working on **MERN Stack & Automation Projects**
+- ⚙️ I love automating repetitive tasks using **Python**
+- 🤖 Learning **AI, RAG, and Agentic AI systems**
+- 🌱 Continuously improving my **backend & system design skills**
+- 🎯 Goal: Become a **Full Stack AI Engineer**
 
 ---
 
 ## 🛠️ Tech Stack
 
-- 💻 HTML, CSS, JavaScript, react.JS
-- ⚙️ Node.js, Express.js, MangoDB
-- 🧠 AI & ML: Python, streamlit, gradio, OpenAI, Hugging Face, LangChain, Groq
-- 🗄️ MySQL, SQLite
+### 💻 Frontend
+- HTML5, CSS3, JavaScript (ES6+)
+- React.js
+
+### ⚙️ Backend
+- Node.js
+- Express.js
+
+### 🗄️ Database
+- MongoDB
+- MySQL
+- SQLite
+
+### 🤖 Automation & AI
+- Python
+- Streamlit, Gradio
+- OpenAI, Hugging Face
+- LangChain, Groq
 
 ---
 
-## 📌 Notable Projects
+## 📌 Projects
 
+### 🛒 Ecommerce Management System (MERN)
+- Full-stack eCommerce web app  
+- Features: Authentication, product management, admin dashboard  
 
-- **Ecommerce Management system** (Mern)  
-    Ecommerce Management system
-  
-- **UOH Admission Chatbot** (Streamlit + LangChain)  
-  A smart assistant guiding students through the admission process.
+---
 
-- **Image Logo Automation Tool**  
-  A Python script to clean and watermark images automatically.
+### 🎓 UOH Admission Chatbot
+- AI-powered chatbot for university admissions  
+- Built with Streamlit & LangChain  
+- Automates student queries and guidance  
 
-- **Organ & Blood Sharing - Donor Finder** (Django)  
-  A web app for requesting and managing organ/blood donations.
-  
-- **Fitcheak - BMI & Health Advisor** (https://github.com/ahmadayaz2022/fitcheak)
-  A Streamlit web app that calculates BMI and gives personalized health advice. [Live on Hugging Face 🚀](https://huggingface.co/spaces/ahmadayaz2022/fitcheak)
+---
+
+### 🖼️ Image Logo Automation Tool
+- Python automation script  
+- Removes old logos and applies new watermark automatically  
+- Handles bulk image processing  
+
+---
+
+### ❤️ Organ & Blood Sharing - Donor Finder
+- Web platform to connect donors & recipients  
+- Built using Django  
+
+---
+
+### 📊 Fitcheak - BMI & Health Advisor
+- Streamlit-based health app  
+- Calculates BMI and provides personalized advice  
+
+🔗 GitHub Repo: https://github.com/ahmadayaz2022/fitcheak  
+
 ---
 
 ## 📜 Certifications
 
-- Advanced Python Programming & its advantages (NAVTTC Pakistan)
-- Google AI Essentials (Coursera)
-- Generative AI  (PakAngel,PEC)
-- Programming for Everybody – Python (Coursera)
-- Google Cybersecurity Professional Certificate
+- 🎓 Advanced Python Programming — NAVTTC Pakistan  
+- 🤖 Google AI Essentials — Coursera  
+- 🧠 Generative AI — PakAngel, PEC  
+- 🐍 Programming for Everybody (Python) — Coursera  
+- 🔐 Google Cybersecurity Professional Certificate  
 
 ---
 
-## 🌐 Let's Connect
+---
 
-- 💼 [LinkedIn](https://linkedin.com/in/ahmadayaz99)
-- 👨‍💻 [GitHub](https://github.com/ahmadayaz2022)
-- 📧 ahmadayaz2022@gmail.com
+## 🌐 Connect With Me
+
+- 💼 LinkedIn: https://linkedin.com/in/ahmadayaz99  
+- 👨‍💻 GitHub: https://github.com/ahmadayaz2022  
+- 📧 Email: ahmadayaz2022@gmail.com  
 
 ---
 
-_“Always learning, always building!”_
+## ⚡ Fun Fact
 
+💡 I enjoy turning complex problems into simple, automated solutions.
+
+---
+
+_“Code. Automate. Scale.”_ 🚀
