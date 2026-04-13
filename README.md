@@ -9,10 +9,9 @@
 
 ## 🛠️ Tech Stack
 
-- 💻 Python, HTML, CSS, JavaScript
-- ⚙️ Django, Streamlit, Gradio
-- 📊 Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, TensorFlow
-- 🧠 AI & ML: OpenAI, Hugging Face, LangChain, Groq
+- 💻 HTML, CSS, JavaScript, react.JS
+- ⚙️ Node.js, Express.js, MangoDB
+- 🧠 AI & ML: Python, streamlit, gradio, OpenAI, Hugging Face, LangChain, Groq
 - 🗄️ MySQL, SQLite
 
 ---
@@ -20,6 +19,9 @@
 ## 📌 Notable Projects
 
 
+- **Ecommerce Management system** (Mern)  
+    Ecommerce Management system
+  
 - **UOH Admission Chatbot** (Streamlit + LangChain)  
   A smart assistant guiding students through the admission process.
 
