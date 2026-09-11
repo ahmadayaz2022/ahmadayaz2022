@@ -57,17 +57,6 @@ I'm a **Full-Stack Developer** specializing in the **MERN Stack**, with real han
 
 ---
 
-### 🛒 Featured Projects
-
-| Project | Stack | Highlights |
-|---|---|---|
-| **[ShopEasy — E-commerce Platform](https://github.com/ahmadayaz2022/Shopeasy-Fullstack-Ecommerce-Store-MERN)** | MERN | JWT auth, customer/admin roles, cart & orders, admin dashboard, REST APIs |
-| **[PharmaPro — Pharmacy Management](https://github.com/ahmadayaz2022/PharmaPro-Pharmacy-management-system-pos)** | MERN | POS system, inventory, billing, suppliers & customer management |
-| **[Dental Elites Aesthetic Center](https://dentalelites-nzz4y2f0t-ahmadayaz2022-8337s-projects.vercel.app/)** | React + Vite | Clinic website, appointment booking UI, gallery, fully responsive |
-| **SeeForce HRM** | Full-Stack | Employee management, auth, dashboards, REST APIs (built during internship) |
-| **UOH Admission Chatbot** | Python, Groq, Gradio | LLM-powered assistant for university admission queries |
-
----
 
 ### 📊 GitHub Stats
 
