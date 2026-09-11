@@ -2,7 +2,7 @@
 <h3 align="center">MERN Stack Developer | Full-Stack Web Developer | Software Engineering Graduate</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Building+with+MongoDB+%2B+Express.js+%2B+React.js+%2B+Node.js;Frontend+Interfaces+%E2%9C%A6+REST+APIs+%E2%9C%A6+Auth+Systems;Turning+Ideas+Into+Production-Ready+Apps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=building+with+MongoDB+%2B+Express.js+%2B+React.js+%2B+Node.js;Frontend+Interfaces+%E2%9C%A6+REST+APIs+%E2%9C%A6+Auth+Systems;Turning+Ideas+Into+Production-Ready+Apps" alt="Typing SVG" />
 </p>
 
 <p align="center">
