@@ -1,9 +1,8 @@
 # 👋 Hi, I'm Ahmad Ayaz
 
-🎓 **Software Engineering Graduate**  
 💻 **MERN Stack Developer | Full-Stack Developer**  
+🎓 **Software Engineering Graduate**  
 🚀 Building responsive, scalable, and production-ready web applications  
-🤖 Exploring **Generative AI, LLMs, RAG & AI-powered applications**
 
 I’m a Full-Stack Developer focused primarily on the **MERN Stack (MongoDB, Express.js, React.js, Node.js)**. I enjoy building complete web applications from responsive frontend interfaces to RESTful APIs, authentication systems, database integration, and admin dashboards.
 
@@ -18,8 +17,7 @@ I’m a Full-Stack Developer focused primarily on the **MERN Stack (MongoDB, Exp
 - 🔐 Implementing authentication, authorization, and role-based systems
 - 🛠️ Experienced with Git, GitHub, Postman, Vercel, and modern development tools
 - 🐍 Using **Python** for automation and AI-powered applications
-- 🤖 Exploring **Generative AI, Prompt Engineering, RAG, LLMs & AI Agents**
-- 🎯 Goal: Grow as a **Full-Stack AI Engineer**
+- 🎯 Goal: Grow as a **Full-Stack  Developer**
 
 ---
 
@@ -46,14 +44,8 @@ I’m a Full-Stack Developer focused primarily on the **MERN Stack (MongoDB, Exp
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
 
-### 🤖 Python & AI
-
+### 🤖 Python
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Gradio](https://img.shields.io/badge/Gradio-FF7C00?style=for-the-badge)
-![Groq](https://img.shields.io/badge/Groq-000000?style=for-the-badge)
-
-**AI Interests:** Generative AI • LLMs • Prompt Engineering • RAG • AI Agents • AI-powered Applications
 
 ### 🔧 Tools
 
@@ -82,7 +74,7 @@ A complete full-stack e-commerce platform with customer and administrator functi
 - 📱 Responsive React frontend
 
 🔗 **Repository:**  
-https://github.com/ahmadayaz2022/shopeasy-fullstack-ecommerce-project
+https://github.com/ahmadayaz2022/Shopeasy-Fullstack-Ecommerce-Store-MERN
 
 ---
 
@@ -104,7 +96,7 @@ A professional web application developed for **Dental Elites Aesthetic Center** 
 - ⚡ Modern React/Vite architecture
 
 🔗 **Live Website:**  
-https://dentalelites-three.vercel.app
+https://dentalelites-nzz4y2f0t-ahmadayaz2022-8337s-projects.vercel.app/
 
 ---
 
@@ -152,26 +144,19 @@ MERN-based pharmacy management and POS system with inventory, billing, suppliers
 
 🔗 **Repository:**  
 https://github.com/ahmadayaz2022/PharmaPro-Pharmacy-management-system-pos
-
 ---
-
-### 🧮 Fitcheak — BMI & Health Advisor
-
-A Python/Streamlit application for BMI calculation and health-related recommendations.
-
-🔗 **Repository:**  
-https://github.com/ahmadayaz2022/fitcheak
 
 ---
 
 # 📚 Certifications & Learning
 
+- 🧠 FullStack Web Development
+- 🧠 Generative AI & AI Application Development
+- 💻 Git & GitHub
 - 🎓 Advanced Python Programming — NAVTTC / UET Peshawar
 - 🤖 Google AI Essentials
-- 🧠 Generative AI & AI Application Development
 - 🐍 Python Programming — Coursera
 - 🔐 Google Cybersecurity Professional Certificate
-- 💻 Git & GitHub
 - 🤖 Prompt Engineering & LLM Applications
 
 ---
