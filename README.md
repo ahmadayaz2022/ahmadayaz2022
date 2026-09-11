@@ -1,193 +1,100 @@
-# 👋 Hi, I'm Ahmad Ayaz
+<h1 align="center">Hi, I'm Ahmad Ayaz 👋</h1>
+<h3 align="center">MERN Stack Developer | Full-Stack Web Developer | Software Engineering Graduate</h3>
 
-💻 **MERN Stack Developer | Full-Stack Developer**  
-🎓 **Software Engineering Graduate**  
-🚀 Building responsive, scalable, and production-ready web applications  
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Building+with+MongoDB+%2B+Express.js+%2B+React.js+%2B+Node.js;Frontend+Interfaces+%E2%9C%A6+REST+APIs+%E2%9C%A6+Auth+Systems;Turning+Ideas+Into+Production-Ready+Apps" alt="Typing SVG" />
+</p>
 
-I’m a Full-Stack Developer focused primarily on the **MERN Stack (MongoDB, Express.js, React.js, Node.js)**. I enjoy building complete web applications from responsive frontend interfaces to RESTful APIs, authentication systems, database integration, and admin dashboards.
-
----
-
-## 💻 About Me
-
-- 🔥 Primarily focused on **MERN Stack Development**
-- ⚛️ Building modern and responsive interfaces with **React.js**
-- 🟢 Developing backend services and REST APIs with **Node.js & Express.js**
-- 🍃 Working with **MongoDB** and relational databases
-- 🔐 Implementing authentication, authorization, and role-based systems
-- 🛠️ Experienced with Git, GitHub, Postman, Vercel, and modern development tools
-- 🐍 Using **Python** for automation and AI-powered applications
-- 🎯 Goal: Grow as a **Full-Stack  Developer**
+<p align="center">
+  <a href="https://linkedin.com/in/ahmadayaz99/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://ahmadayaz-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="mailto:ahmadayaz2022@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
 ---
 
-# 🛠️ Tech Stack
+### 🚀 About Me
 
-### 🌐 Frontend
+I'm a **Full-Stack Developer** specializing in the **MERN Stack**, with real hands-on experience building complete applications — from pixel-perfect **React.js** frontends to secure, scalable **Node.js/Express.js** APIs backed by **MongoDB**. I've picked this up through internships, personal projects, and constant building — not just tutorials.
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Material UI](https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
-
-### ⚙️ Backend
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge)
-
-### 🗄️ Databases
-
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
-
-### 🤖 Python
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-### 🔧 Tools
-
-Git • GitHub • VS Code • Postman • Vercel • Bitbucket
+- 🔭 Currently building full-stack apps with **React, Node.js, Express & MongoDB**
+- 🔐 Comfortable implementing **JWT auth**, role-based access, and REST APIs from scratch
+- 🎨 On the frontend, I care about **responsive UI** and clean component architecture
+- 🐍 Also use **Python** for automation and AI-powered tools (LLMs, chatbots)
+- 🤝 Interned at **SeeBiz Pvt. Ltd.** (PSEB-backed) and **STACKONN**
+- 🌱 Always shipping — currently sharpening backend architecture & system design
 
 ---
 
-# 🚀 Featured Projects
+### 🧠 Tech Stack
 
-## 🛒 ShopEasy — Full-Stack E-commerce Platform
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js,html,css,tailwind,materialui,mysql,python,git,github,postman,vercel,vscode&theme=dark" />
+</p>
 
-**MERN Stack | MongoDB | Express.js | React.js | Node.js**
+<table align="center">
+<tr>
+<td valign="top" width="50%">
 
-A complete full-stack e-commerce platform with customer and administrator functionality.
+**Frontend**
+- React.js, JavaScript (ES6+)
+- HTML5, CSS3, Tailwind CSS
+- Material UI
+- Responsive, component-driven UI
 
-### Features
+</td>
+<td valign="top" width="50%">
 
-- 🔐 JWT-based authentication & authorization
-- 👤 Customer and admin roles
-- 🛍️ Product browsing and management
-- 🛒 Shopping cart and order management
-- 📦 Product categories and inventory
-- 🖼️ Product image management
-- 📊 Admin dashboard
-- 🔌 RESTful backend APIs
-- 📱 Responsive React frontend
+**Backend**
+- Node.js, Express.js
+- RESTful API design
+- JWT Authentication & Authorization
+- MongoDB, MySQL
 
-🔗 **Repository:**  
-https://github.com/ahmadayaz2022/Shopeasy-Fullstack-Ecommerce-Store-MERN
-
----
-
-## 🦷 Dental Elites Aesthetic Center — Dental Clinic Management System
-
-**React.js | Vite | JavaScript | Responsive UI**
-
-A professional web application developed for **Dental Elites Aesthetic Center** to provide an online presence and streamline clinic-related interactions.
-
-### Features
-
-- 🏥 Professional dental clinic website
-- 👨‍⚕️ Doctors and services sections
-- 📅 Online appointment booking interface
-- 🖼️ Gallery and testimonials
-- ❓ FAQ section
-- 📞 Contact and clinic information
-- 📱 Fully responsive design
-- ⚡ Modern React/Vite architecture
-
-🔗 **Live Website:**  
-https://dentalelites-nzz4y2f0t-ahmadayaz2022-8337s-projects.vercel.app/
+</td>
+</tr>
+</table>
 
 ---
 
-## 👥 SeeForce HRM — Human Resource Management System
+### 🛒 Featured Projects
 
-**Full-Stack Development | REST APIs | Database Integration**
-
-A Human Resource Management System developed during my full-stack development internship, focusing on employee and organizational management workflows.
-
-### Key Areas
-
-- 🔐 User registration and authentication
-- 👤 Employee management
-- 📊 Dashboard functionality
-- 🔌 Backend REST APIs
-- 🗄️ Database integration
-- 🖥️ Responsive frontend interfaces
-- 🔄 Frontend-backend integration
+| Project | Stack | Highlights |
+|---|---|---|
+| **[ShopEasy — E-commerce Platform](https://github.com/ahmadayaz2022/Shopeasy-Fullstack-Ecommerce-Store-MERN)** | MERN | JWT auth, customer/admin roles, cart & orders, admin dashboard, REST APIs |
+| **[PharmaPro — Pharmacy Management](https://github.com/ahmadayaz2022/PharmaPro-Pharmacy-management-system-pos)** | MERN | POS system, inventory, billing, suppliers & customer management |
+| **[Dental Elites Aesthetic Center](https://dentalelites-nzz4y2f0t-ahmadayaz2022-8337s-projects.vercel.app/)** | React + Vite | Clinic website, appointment booking UI, gallery, fully responsive |
+| **SeeForce HRM** | Full-Stack | Employee management, auth, dashboards, REST APIs (built during internship) |
+| **UOH Admission Chatbot** | Python, Groq, Gradio | LLM-powered assistant for university admission queries |
 
 ---
 
-## 🎓 UOH Admission Chatbot — AI-Powered University Assistant
+### 📊 GitHub Stats
 
-**Python | Groq | Gradio | LLM**
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ahmadayaz2022&show_icons=true&theme=react&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadayaz2022&layout=compact&theme=react&hide_border=true" />
+</p>
 
-An AI-powered university admission assistant designed to answer students' questions about admissions and academic information.
-
-### Features
-
-- 🎓 Admission information
-- 📚 BS, MS & PhD guidance
-- 📅 Admission schedules
-- 💰 Fee information
-- 🏠 Hostel information
-- 🎯 Eligibility guidance
-- 🤖 LLM-powered conversational responses
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmadayaz2022&theme=react&hide_border=true" />
+</p>
 
 ---
 
-# 📌 Other Projects
+### 📜 Certifications
 
-### 💊 PharmaPro — Pharmacy Management System
-
-MERN-based pharmacy management and POS system with inventory, billing, suppliers, customers, authentication, and dashboard functionality.
-
-🔗 **Repository:**  
-https://github.com/ahmadayaz2022/PharmaPro-Pharmacy-management-system-pos
----
+`FullStack Web Development` · `Generative AI & AI App Development` · `Git & GitHub` · `Advanced Python — NAVTTC/UET Peshawar` · `Google AI Essentials` · `Python — Coursera` · `Google Cybersecurity Professional Certificate` · `Prompt Engineering & LLM Applications`
 
 ---
 
-# 📚 Certifications & Learning
+### 📫 Let's Connect
 
-- 🧠 FullStack Web Development
-- 🧠 Generative AI & AI Application Development
-- 💻 Git & GitHub
-- 🎓 Advanced Python Programming — NAVTTC / UET Peshawar
-- 🤖 Google AI Essentials
-- 🐍 Python Programming — Coursera
-- 🔐 Google Cybersecurity Professional Certificate
-- 🤖 Prompt Engineering & LLM Applications
+<p align="center">
+  <a href="https://linkedin.com/in/ahmadayaz99/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" /></a>
+  <a href="https://github.com/ahmadayaz2022"><img src="https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github" /></a>
+  <a href="https://ahmadayaz-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel" /></a>
+  <a href="mailto:ahmadayaz2022@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=flat-square&logo=gmail" /></a>
+</p>
 
----
-
-# 🌐 Connect With Me
-
-💼 **LinkedIn:**  
-https://linkedin.com/in/ahmadayaz99/
-
-👨‍💻 **GitHub:**  
-https://github.com/ahmadayaz2022
-
-🌐 **Portfolio:**  
-https://ahmadayaz-portfolio.vercel.app/
-
-📧 **Email:**  
-ahmadayaz2022@gmail.com
-
----
-
-# ⚡ What I Like Building
-
-```text
-        React.js
-           ↓
-     RESTful APIs
-           ↓
-   Node.js + Express
-           ↓
-    MongoDB / SQL
-           ↓
- Authentication & Logic
-           ↓
-Production-Ready Web App
+<p align="center"><i>⭐ Open to full-stack MERN opportunities — let's build something great.</i></p>
